@@ -1,0 +1,8 @@
+{
+  "name": "gym-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "unzip -o gym-pro-deploy.zip && npm run build",
+    "start": "npm start"
+  }
+}
